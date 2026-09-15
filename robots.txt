@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fmg6rsp6.qwenwork.host/sitemap.xml
